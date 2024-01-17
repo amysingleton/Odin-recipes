@@ -1,0 +1,2 @@
+# Odin-Recipes
+We are currently working on learning how to create repos, files inside repos, and linking different repos together.  We are learning about writing the code to create different projects. 
